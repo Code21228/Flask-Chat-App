@@ -9,7 +9,7 @@ Minimal, easy to use and modify web based chat application, built with the power
 * Simple and friendly UI built with Bootstrap5.
 
 ## Prerequisites
-* Clone the repository ```git clone https://github.com/mahmouddello/flask-chat-app```
+* Clone the repository ```git clone https://github.com/FunnyDev1228/flask-chat-app```
 * Cd into the project directory `cd ./flask-chat-app`
 ### Requirements
 Use ```pip install -r requirements.txt``` to install all required modules from [requirements.txt](./requirements.txt).
